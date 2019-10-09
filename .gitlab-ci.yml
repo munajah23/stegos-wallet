@@ -1,6 +1,6 @@
 variables:
   STEGOS_PROJECT_ID: 25
-  STEGOS_BRANCH: dev
+  STEGOS_BRANCH: vm-fix-serviceaward-panic
 
 stages:
   - build
